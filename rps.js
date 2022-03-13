@@ -1,8 +1,11 @@
+
+
+
 function game() {
       let i = 1
       while (i < 6, i++) {
             if (i > 6) {
-                  prompt('would you like to play aga')
+                  prompt('would you like to play again')
             } else {
                   playRound()
             }
